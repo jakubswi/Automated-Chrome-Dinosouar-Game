@@ -44,3 +44,7 @@ You can customize the script by adjusting the following parameters in the code:
 
 This script is for educational purposes only. Use it responsibly and respect the terms of service of the game you are
 automating.
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
